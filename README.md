@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @JDrisc3480
-- 🌱 I’m currently learning Cybersecurity
-- This is a repository of all my papers written while in school
+- 👋 Hi, I’m Jim with Joker Delta Security
+- 🌱 I’m currently working on my Masters degree in Cybersecurity
+- This is a repository of all my papers and presentations written while in school
+- It also has a Small Business Cybersecurity Starter Kit
 - 📫 How to reach me email - JDrisc3480@yahoo.com : LinkedIn - www.linkedin.com/in/jdriscoll-76
 
 <!---
